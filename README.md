@@ -1,8 +1,19 @@
-# React + Vite
+# Nottie
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application was made by a request to take text notes while retaining some looks and features of Discord.
 
-Currently, two official plugins are available:
+Powered by Editor.js 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## The following features include:
+
+- Writing down notes to be sent to the DB using Supabase
+- Create new "page" for notes to be written on if the month changes
+- Retrieve notes of current month and previous months/years if notes were written on that time.
+- Time of the notes entered stamped underneath each note
+- Included an indicator if the note been edited
+- locally stored notes for any private notes to be stored in local device.
+
+## Features i want to add/expand on:
+- [ ] account system
+- [ ] more types of notes to be stored (images, titles, etc.)
+- [ ] responsive layout/mobile friendly 
