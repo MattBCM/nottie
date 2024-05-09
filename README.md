@@ -1,4 +1,7 @@
 # Nottie
+<p align="center">
+<img src="https://github.com/MattBCM/nottie/blob/main/src/assets/DefaultNottie.png" width=500> </img>
+</p>
 
 This application was made by a request to take text notes while retaining some looks and features of Discord.
 
